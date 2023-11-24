@@ -1,2 +1,2 @@
 # bookmyshow-app
-This repo contains the book-my-show app and the database design for the system.
+This branch contains the API design for the system (BookMyShow-App)
